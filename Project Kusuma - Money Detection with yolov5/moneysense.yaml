@@ -1,0 +1,25 @@
+
+train: /content/yolo_dataset/images/train
+val: /content/yolo_dataset/images/val
+
+# Jumlah kelas
+nc: 16
+
+# Nama kelas
+names:
+  - Genuine 1000
+  - Genuine 2000
+  - Genuine 5000
+  - Genuine 10000
+  - Genuine 20000
+  - Genuine 50000
+  - Genuine 75000
+  - Genuine 100000
+  - Counterfeit 1000
+  - Counterfeit 2000
+  - Counterfeit 5000
+  - Counterfeit 10000
+  - Counterfeit 20000
+  - Counterfeit 50000
+  - Counterfeit 75000
+  - Counterfeit 100000
